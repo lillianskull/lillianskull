@@ -6,5 +6,5 @@ Here's a little README file for information about me!
 
 - [x] My favorite color is `#FC0356`!
 - [x] My favorite language is Lua :) 
-- [x] Trying to learn languages such as: Rust and C#!
+- [x] Trying to learn different languages!
 - [x] I'm trying my best!
