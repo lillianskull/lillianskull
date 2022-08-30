@@ -1,10 +1,7 @@
 # Hi, I'm Lillian!
 
-Here's a little README file for information about me!
+I work on different stuff for the **[ROBLOX](https://roblox.com)** platform, including modules, games, *et cetera*
 
-## Facts About Me
+## Stats
 
-- [x] My favorite color is `#FC0356`!
-- [x] My favorite language is Lua :) 
-- [x] Trying to learn different languages!
-- [x] I'm trying my best!
+![Lillian's Lame Stats](https://github-readme-stats.vercel.app/api?username=lillianskull&show_icons=true&theme=algolia)
