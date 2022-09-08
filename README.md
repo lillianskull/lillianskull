@@ -22,7 +22,7 @@
 </a>
 
 <!-- Roblox -->
-<a href="https://ko-fi.com/lillianskull">
+<a href="https://www.roblox.com/users/335434185/profile">
 <img src="https://img.shields.io/badge/roblox-%23232527.svg?&style=for-the-badge&logo=roblox&logoColor=white">
 </a>
 
