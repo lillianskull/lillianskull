@@ -2,8 +2,6 @@
 <img src="./assets/images/header/darkMode.png#gh-dark-mode-only" alt="Header"> <!-- Dark Mode -->
 <img src="./assets/images/header/lightMode.png#gh-light-mode-only" alt="Header"> <!-- Light Mode -->
 
----
-
 <!-- Links -->
 
 <!-- Twitter -->
@@ -28,8 +26,6 @@
 
 <img src="./assets/images/introduction/darkMode.png#gh-dark-mode-only" alt="Header"> <!-- Dark Mode -->
 <img src="./assets/images/introduction/lightMode.png#gh-light-mode-only" alt="Header"> <!-- Light Mode -->
-
----
 
 Hi, I'm Lillian. I make games *(very rarely)* and libraries on the **[ROBLOX](https://www.roblox.com)** platform, I'm very enthusiastic about it and software development in general; as I strive to become a software developer myself in the future.
 
