@@ -26,11 +26,11 @@
 
 ---
 
-Hi, I'm Lillian. I make games *(very rarely)* and libraries on the **[ROBLOX](https://www.roblox.com)** platform, I"m very enthusiastic about it and software development in general; as I strive to become a software developer myself in the future.
+Hi, I'm Lillian. I make games *(very rarely)* and libraries on the **[ROBLOX](https://www.roblox.com)** platform, I'm very enthusiastic about it and software development in general; as I strive to become a software developer myself in the future.
 
 My virtues when it comes to programming are **modularity**, **readability** and **efficiency**. I may or may not hit myself with a shoe if anything that comes out of me doesn"t follow of those things.
 
-As a mediocre developer, I often find myself reinventing the wheel. But those reinventions can be excused as learning experiences of course *:p*. In all seriousness though, even if I find myself writing something somebody else has written already, it doesn"t mean I can"t add my own flavor to it as you are not obligated to use it if you don"t want to.
+As a mediocre developer, I often find myself reinventing the wheel. *But those reinventions can be excused as learning experiences of course! :) (Totally not because I have an identity crisis... Why would you think that? :thinking:)*
 
 ## Languages I Write In
 
