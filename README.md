@@ -1,7 +1,6 @@
 <!-- Headers -->
-<img src='./assets/images/header/darkMode.png#gh-dark-mode-only' alt='Header'> <!-- Dark Mode -->
-
-<img src='./assets/images/header/lightMode.png#gh-light-mode-only'alt='Header'> <!-- Light Mode -->
+<img src='assets/images/header/darkMode.png#gh-dark-mode-only' alt='Header'> <!-- Dark Mode -->
+<img src='assets/images/header/lightMode.png#gh-light-mode-only'alt='Header'> <!-- Light Mode -->
 
 ---
 
