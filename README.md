@@ -21,6 +21,11 @@
 <img src="https://img.shields.io/badge/kofi-%23FF5872.svg?&style=for-the-badge&logo=kofi&logoColor=white">
 </a>
 
+<!-- Roblox -->
+<a href="https://ko-fi.com/lillianskull">
+<img src="https://img.shields.io/badge/roblox-%23232527.svg?&style=for-the-badge&logo=roblox&logoColor=white">
+</a>
+
 <img src="./assets/images/introduction/darkMode.png#gh-dark-mode-only" alt="Header"> <!-- Dark Mode -->
 <img src="./assets/images/introduction/lightMode.png#gh-light-mode-only" alt="Header"> <!-- Light Mode -->
 
